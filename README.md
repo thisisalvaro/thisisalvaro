@@ -6,8 +6,8 @@ Soy un desarrollador con experiencia en **aplciaciones moviles en java**,**web**
 
 - **Lenguajes de Programación**: Python, JavaScript, Java, PHP, SQL
 - **Frameworks & Librerías**: Django, Flask, Streamlit, Hugging Face, Unity
-- **Bases de Datos**: MySQL, MongoDB, Firebase
-- **Herramientas**: Docker, Git, Odoo, Maven, ObjectAid UML, Firebase
+- **Bases de Datos**: MySQL, MongoDB
+- **Herramientas**: Docker, Git, Odoo, Maven, ObjectAid UML
 - **Otros**: HTML, CSS, JSON, XML, ORM con Hibernate
 
 ## Proyectos destacados:
