@@ -4,7 +4,7 @@ Soy un desarrollador con experiencia en **aplciaciones moviles en java**,**web**
 
 ## Tecnologías que uso:
 
-- **Lenguajes de Programación**: Python, JavaScript, Java, PHP, SQL
+- **Lenguajes de Programación**: Python, JavaScript, Java, PHP, SQL, Pascal
 - **Frameworks & Librerías**: Django, Flask, Streamlit, Hugging Face, Unity
 - **Bases de Datos**: MySQL, MongoDB
 - **Herramientas**: Docker, Git, Odoo, Maven, ObjectAid UML
@@ -18,7 +18,7 @@ Soy un desarrollador con experiencia en **aplciaciones moviles en java**,**web**
   
 ## Contacto:
 
-- 📧 Email: [alvaroblanco496@gmail.com](alvaroblanco496@gmail.com)
+- 📧 Email: [alvaroblanco409@gmail.com](alvaroblanco409@gmail.com)
 
 
 ¡Estoy siempre en busca de nuevos desafíos y colaboraciones!
